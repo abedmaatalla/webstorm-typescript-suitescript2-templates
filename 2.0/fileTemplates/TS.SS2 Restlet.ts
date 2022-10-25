@@ -1,8 +1,6 @@
 /**
- *    Copyright (c) ${YEAR}, Oracle and/or its affiliates. All rights reserved.
- */
-
-/**
+ * @Copyright (c) ${YEAR}, Oracle and/or its affiliates. All rights reserved.
+ *
  * @NApiVersion 2.#[[$Version$]]#
  * @NScriptType Restlet
  * @NModuleScope SameAccount

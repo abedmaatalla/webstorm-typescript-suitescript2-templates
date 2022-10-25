@@ -1,5 +1,6 @@
 /**
- * Copyright (c) ${YEAR}, Oracle and/or its affiliates. All rights reserved.
+ * @Copyright (c) ${YEAR}, Oracle and/or its affiliates. All rights reserved.
+ *
  * @jest-environment jsdom
  */
 
